@@ -1,1 +1,1 @@
-Si quieres ver todas las figuras tienes que ir a la carpeta [figures](./figures)
+If you want to download all the created figures, you have to download the [figures](./figures) folder entirely. Then, when you unzip it, you have to unzip only the 'figures.zip' file. To avoid errors, make sure that all the files you have downloaded are in the same folder.
