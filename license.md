@@ -1,0 +1,1 @@
+[CSP simulation with electrical curtailment](https://github.com/SGB314/CSP-simulation-with-electrical-curtailment/tree/main) © 2024 by Sergio González Barredo is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
