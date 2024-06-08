@@ -1,0 +1,1 @@
+Results = Thermal energy incident on receiver (MWh)
