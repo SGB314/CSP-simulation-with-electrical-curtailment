@@ -1,0 +1,3 @@
+365 days (rows) x 24h (columns)
+
+Data: power (MW)
